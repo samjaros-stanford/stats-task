@@ -15,7 +15,7 @@ The questions will require two data sets:
 
 `MOUD_data.csv`
 
--   These data come from a hypothetical study of the effect of Medication for Opioid Use Disorder on withdrawal symptoms and subsequent relapse.
+-   These data come from a hypothetical study of the effect of Medication for Opioid Use Disorder (MOUD) on withdrawal symptoms and subsequent relapse.
 
 -   `id` is a unique patient identifier.
 
@@ -45,7 +45,7 @@ Using the MOUD data set, please run a statistical test to determine the associat
 
 ## Question 2
 
-Using the MOUD data set, please create a figure displaying the difference in withdrawal scale between the MOUD treatment and no MOUD treatment groups. The figure should be ready to hand off to a journal for publication and needs a title and properly labelled axes.
+Using the MOUD data set, please create a figure displaying the difference in withdrawal scale between the MOUD treatment and no MOUD treatment groups. The figure should be ready to hand off to a journal for publication.
 
 ## Question 3
 
@@ -54,3 +54,9 @@ Using the MOUD data set, please run a statistical test to determine the associat
 ## Question 4
 
 Using the sleep data set, please run a statistical test to determine the association between days with reduced sleep and reaction time. Please make sure your chosen method takes into account that there are multiple measurements for each person. What is the relationship between these? How would you report this relationship in words in a scientific article?
+
+## Question 5
+
+After the success of that sleep study, you are called in to consult on a follow-up study. They want to measure the effects of sleep deprivation on twenty different outcomes including depression, anxiety, fatigue, blood pressure, appetite, and several others. The researcher says she picked so many variables so that you can take all the measurements at once, run the analyses, and then just publish about the ones that end up being significant. How would you advise this researcher? How could you change this protocol to make it better?
+
+
