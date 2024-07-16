@@ -5,9 +5,9 @@ This repository provides data and instructions for an applied statistical abilit
 
 ## Overview
 
-You will be required to complete all of the questions in 24 hours. You may use R or Python to complete this task including any publicly available packages. Please make sure to read the entire question and answer all parts. When asked to explain your findings, please write out one or two sentences as though you are reporting your findings to a general audience in a scientific article. Make sure to put the results in context (i.e. "This statistically significant p-value means we found blood pressure decreases the risk of heart disease."). Please document your code and name variables appropriately.
+You will be required to complete all of the questions in 24 hours. You may use the software of your choice to complete this task including any publicly available packages. Please make sure to read the entire question and answer all parts. When asked to explain your findings, please write out one or two sentences as though you are reporting your findings to a general audience in a scientific article. Make sure to put the results in context (i.e. “This statistically significant p-value means we found blood pressure decreases the risk of heart disease.”). Please document your code and name variables appropriately.
 
-When you are finished, please provide your code, any figures you generate, and your written answers. You may combine these into one document (like via RMarkdown) or turn them in separately.
+When you are finished, please provide your code, any figures you generate, and your written answers. You may combine these into one document or turn them in separately.
 
 ## Data
 
