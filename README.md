@@ -1,4 +1,3 @@
-
 # Stats Task
 
 This repository provides data and instructions for an applied statistical abilities test.
@@ -13,35 +12,15 @@ When you are finished, please provide your code, any figures you generate, and y
 
 The questions will require two data sets:
 
-`MOUD_data.csv`
+`MOUD_data.csv` - These data come from a hypothetical study of the effect of Medication for Opioid Use Disorder on withdrawal symptoms (withd_scale, higher is more symptoms) and subsequent relapse (did_relapse).
 
--   These data come from a hypothetical study of the effect of Medication for Opioid Use Disorder (MOUD) on withdrawal symptoms and subsequent relapse.
-
--   `id` is a unique patient identifier.
-
--   `sex` is the patient's sex.
-
--   `race` is the patient's race.
-
--   `tx_group` is the patient's treatment group, either taking MOUD ("MOUD") or not taking MOUD ("no_MOUD").
-
--   `withd_scale` is an invented scale describing the patient's withdrawal symptoms. 0 on this scale is no symptoms, and 10 on this scale is the most severe symptoms.
-
--   `did_relapse` is an indicator of whether the patient relapsed to Opioid Use Disorder while in recovery, either relapsed ("Relapse") or did not relapse ("No Relapse").
-
-`sleep_data.csv`
-
--   These data come from the `lme4` package and include a hypothetical sleep study where patients are restricted to three hours of sleep for multiple nights and their reaction times are measured.
-
--   `Subject` is a unique patient identifier.
-
--   `Days` is the number of days of sleep deprivation.
-
--   `Reaction` is the patient's reaction time in milliseconds.
+`sleep_data.csv` - These data come from the `lme4` package and include a hypothetical sleep study where patients are restricted to three hours of sleep for multiple nights and their reaction times are measured. The first reaction time has no sleep restriction.
 
 ## Question 1
 
-Using the MOUD data set, please run a statistical test to determine the association between MOUD treatment and reported withdrawal symptoms. What is the relationship between treatment group and reported withdrawal scale? How would you report this relationship in words in a scientific article?
+Most academic papers create a “Table 1” to describe what participants are in their study. They normally consist of the different treatment groups across the columns and then relevant characteristics as rows. Here are a few examples: [Example 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4478141/#T1), [Example 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC4866634/#T1).
+
+Examine the MOUD data set. Clean any data points that seem to be errors, documenting the choices you make. Calculate the relevant data points in code and put them in a document as a Table 1.
 
 ## Question 2
 
@@ -53,10 +32,24 @@ Using the MOUD data set, please run a statistical test to determine the associat
 
 ## Question 4
 
-Using the sleep data set, please run a statistical test to determine the association between days with reduced sleep and reaction time. Please make sure your chosen method takes into account that there are multiple measurements for each person. What is the relationship between these? How would you report this relationship in words in a scientific article?
+Using the sleep data set, pivot the data so that each row is one person and the columns are the number of nights of sleep deprivation with reaction times filled in as the values. Some participants will have missing reaction times for some of the days. Print the first five rows of this data set.
+
+Use a t-test to compare the baseline reaction times to nine nights of sleep deprivation.
 
 ## Question 5
 
-After the success of that sleep study, you are called in to consult on a follow-up study. They want to measure the effects of sleep deprivation on twenty different outcomes including depression, anxiety, fatigue, blood pressure, appetite, and several others. The researcher says she picked so many variables so that you can take all the measurements at once, run the analyses, and then just publish about the ones that end up being significant. How would you advise this researcher? How could you change this protocol to make it better?
+Using the sleep data set, please run a statistical test to determine the association between days with reduced sleep and reaction time. Please make sure your chosen method takes into account that there are multiple measurements for each person. What is the relationship between these? How would you report this relationship in words in a scientific article?
 
+## Question 6
 
+Imagine you are tasked with creating a data repository for two ongoing research projects. These projects collect data on some shared measures (e.g. age, gender, and race) and some project-specific measures (e.g. one studies depression, the other anxiety). You get data from your collaborators in two formats: one project collects and shares data via Qualtrics, and the other sends you Excel files via email. The repository must meet the following requirements:
+
+1.  Centralized storage: All data must be located in one secure, central location.
+
+2.  Secure access and ability to share: Data must be accessible to external collaborators with appropriate permissions.
+
+3.  Harmonization: Shared measures across both projects must be harmonized for consistency.
+
+4.  Tracking and Inventory: A system of tracking which measures are included and the dates of the most recent updates.
+
+In a short paragraph, please explain how you would approach this task. Feel free to include questions or concerns that you would ask your study manager, and how might their responses change your plan.

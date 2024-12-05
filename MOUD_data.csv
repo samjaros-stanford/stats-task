@@ -1,201 +1,201 @@
-"","id","sex","race","tx_group","withd_scale","did_relapse"
-"1",1,"Male","Other","MOUD",2,"No Relapse"
-"2",2,"Male","Black","MOUD",3,"Relapse"
-"3",3,"Male","Other","MOUD",3,"Relapse"
-"4",4,"Male","White","MOUD",2,"No Relapse"
-"5",5,"Male","Asian","MOUD",2,"No Relapse"
-"6",6,"Male","Asian","MOUD",3,"Relapse"
-"7",7,"Female","Asian","MOUD",2,"No Relapse"
-"8",8,"Male","Black","MOUD",0,"No Relapse"
-"9",9,"Female","White","MOUD",2,"No Relapse"
-"10",10,"Male","Black","MOUD",4,"Relapse"
-"11",11,"Female","Asian","MOUD",2,"No Relapse"
-"12",12,"Female","White","MOUD",4,"No Relapse"
-"13",13,"Female","Black","MOUD",1,"No Relapse"
-"14",14,"Female","White","MOUD",3,"No Relapse"
-"15",15,"Female","Black","MOUD",4,"No Relapse"
-"16",16,"Male","Black","MOUD",3,"Relapse"
-"17",17,"Female","Other","MOUD",3,"No Relapse"
-"18",18,"Male","Asian","MOUD",2,"No Relapse"
-"19",19,"Male","Black","MOUD",2,"No Relapse"
-"20",20,"Male","Black","MOUD",1,"No Relapse"
-"21",21,"Male","Black","MOUD",3,"Relapse"
-"22",22,"Male","Black","MOUD",2,"No Relapse"
-"23",23,"Male","Black","MOUD",2,"No Relapse"
-"24",24,"Male","Other","MOUD",3,"Relapse"
-"25",25,"Male","Other","MOUD",6,"Relapse"
-"26",26,"Male","Asian","MOUD",2,"No Relapse"
-"27",27,"Female","White","MOUD",3,"No Relapse"
-"28",28,"Female","White","MOUD",3,"No Relapse"
-"29",29,"Male","Asian","MOUD",2,"No Relapse"
-"30",30,"Male","Asian","MOUD",3,"Relapse"
-"31",31,"Male","Asian","MOUD",5,"Relapse"
-"32",32,"Female","Other","MOUD",4,"No Relapse"
-"33",33,"Female","Asian","MOUD",3,"No Relapse"
-"34",34,"Male","Black","MOUD",2,"No Relapse"
-"35",35,"Female","White","MOUD",0,"No Relapse"
-"36",36,"Male","White","MOUD",5,"Relapse"
-"37",37,"Female","Asian","MOUD",1,"No Relapse"
-"38",38,"Male","Black","MOUD",4,"Relapse"
-"39",39,"Female","Other","MOUD",6,"Relapse"
-"40",40,"Male","Other","MOUD",1,"No Relapse"
-"41",41,"Male","Black","MOUD",4,"Relapse"
-"42",42,"Male","Other","MOUD",3,"Relapse"
-"43",43,"Female","Asian","MOUD",1,"No Relapse"
-"44",44,"Female","Other","MOUD",1,"No Relapse"
-"45",45,"Male","Other","MOUD",1,"No Relapse"
-"46",46,"Female","White","MOUD",2,"No Relapse"
-"47",47,"Female","Asian","MOUD",1,"No Relapse"
-"48",48,"Female","Other","MOUD",4,"No Relapse"
-"49",49,"Female","Asian","MOUD",6,"Relapse"
-"50",50,"Female","Other","MOUD",1,"No Relapse"
-"51",51,"Female","White","MOUD",4,"No Relapse"
-"52",52,"Male","White","MOUD",4,"Relapse"
-"53",53,"Female","Asian","MOUD",3,"No Relapse"
-"54",54,"Female","Asian","MOUD",1,"No Relapse"
-"55",55,"Female","Other","MOUD",3,"No Relapse"
-"56",56,"Male","Black","MOUD",3,"Relapse"
-"57",57,"Female","Black","MOUD",4,"No Relapse"
-"58",58,"Female","Other","MOUD",2,"No Relapse"
-"59",59,"Male","Asian","MOUD",4,"Relapse"
-"60",60,"Female","Black","MOUD",2,"No Relapse"
-"61",61,"Female","Asian","MOUD",5,"Relapse"
-"62",62,"Male","Asian","MOUD",1,"No Relapse"
-"63",63,"Female","Black","MOUD",1,"No Relapse"
-"64",64,"Male","Asian","MOUD",8,"Relapse"
-"65",65,"Male","Asian","MOUD",2,"No Relapse"
-"66",66,"Female","White","MOUD",3,"No Relapse"
-"67",67,"Female","Asian","MOUD",4,"No Relapse"
-"68",68,"Male","White","MOUD",2,"No Relapse"
-"69",69,"Female","Black","MOUD",4,"No Relapse"
-"70",70,"Male","Other","MOUD",4,"Relapse"
-"71",71,"Male","Other","MOUD",3,"Relapse"
-"72",72,"Male","White","MOUD",3,"Relapse"
-"73",73,"Female","Asian","MOUD",3,"No Relapse"
-"74",74,"Female","Asian","MOUD",6,"Relapse"
-"75",75,"Male","Black","MOUD",2,"No Relapse"
-"76",76,"Male","Other","MOUD",1,"No Relapse"
-"77",77,"Male","Other","MOUD",3,"Relapse"
-"78",78,"Male","Black","MOUD",3,"Relapse"
-"79",79,"Female","White","MOUD",4,"No Relapse"
-"80",80,"Male","Black","MOUD",2,"No Relapse"
-"81",81,"Female","Asian","MOUD",1,"No Relapse"
-"82",82,"Female","Asian","MOUD",5,"Relapse"
-"83",83,"Female","Asian","MOUD",2,"No Relapse"
-"84",84,"Female","Black","MOUD",2,"No Relapse"
-"85",85,"Male","White","MOUD",3,"Relapse"
-"86",86,"Female","Black","MOUD",3,"No Relapse"
-"87",87,"Female","Other","MOUD",5,"Relapse"
-"88",88,"Male","Asian","MOUD",3,"Relapse"
-"89",89,"Female","Black","MOUD",4,"No Relapse"
-"90",90,"Female","Asian","MOUD",2,"No Relapse"
-"91",91,"Male","Other","MOUD",3,"Relapse"
-"92",92,"Female","Asian","MOUD",3,"No Relapse"
-"93",93,"Male","White","MOUD",3,"Relapse"
-"94",94,"Female","Black","MOUD",2,"No Relapse"
-"95",95,"Female","Black","MOUD",1,"No Relapse"
-"96",96,"Female","Black","MOUD",6,"Relapse"
-"97",97,"Female","Other","MOUD",4,"No Relapse"
-"98",98,"Male","Other","MOUD",1,"No Relapse"
-"99",99,"Male","Black","MOUD",2,"No Relapse"
-"100",100,"Male","Other","MOUD",1,"No Relapse"
-"101",101,"Female","Black","no_MOUD",6,"Relapse"
-"102",102,"Female","White","no_MOUD",7,"Relapse"
-"103",103,"Female","White","no_MOUD",9,"Relapse"
-"104",104,"Female","Asian","no_MOUD",7,"Relapse"
-"105",105,"Male","Other","no_MOUD",7,"Relapse"
-"106",106,"Male","White","no_MOUD",10,"Relapse"
-"107",107,"Male","Asian","no_MOUD",8,"Relapse"
-"108",108,"Male","Asian","no_MOUD",5,"Relapse"
-"109",109,"Female","Black","no_MOUD",6,"Relapse"
-"110",110,"Male","Other","no_MOUD",6,"Relapse"
-"111",111,"Female","Asian","no_MOUD",9,"Relapse"
-"112",112,"Male","Black","no_MOUD",8,"Relapse"
-"113",113,"Female","White","no_MOUD",8,"Relapse"
-"114",114,"Male","Other","no_MOUD",7,"Relapse"
-"115",115,"Female","White","no_MOUD",6,"Relapse"
-"116",116,"Female","Other","no_MOUD",10,"Relapse"
-"117",117,"Female","Other","no_MOUD",8,"Relapse"
-"118",118,"Male","Black","no_MOUD",4,"Relapse"
-"119",119,"Female","White","no_MOUD",8,"Relapse"
-"120",120,"Female","Asian","no_MOUD",6,"Relapse"
-"121",121,"Female","Black","no_MOUD",5,"Relapse"
-"122",122,"Female","Other","no_MOUD",7,"Relapse"
-"123",123,"Male","Other","no_MOUD",5,"Relapse"
-"124",124,"Female","Other","no_MOUD",6,"Relapse"
-"125",125,"Male","Black","no_MOUD",6,"Relapse"
-"126",126,"Female","Asian","no_MOUD",4,"No Relapse"
-"127",127,"Male","White","no_MOUD",8,"Relapse"
-"128",128,"Male","Other","no_MOUD",7,"Relapse"
-"129",129,"Male","White","no_MOUD",5,"Relapse"
-"130",130,"Male","Black","no_MOUD",9,"Relapse"
-"131",131,"Female","Asian","no_MOUD",8,"Relapse"
-"132",132,"Female","White","no_MOUD",7,"Relapse"
-"133",133,"Female","White","no_MOUD",8,"Relapse"
-"134",134,"Male","Asian","no_MOUD",8,"Relapse"
-"135",135,"Male","Asian","no_MOUD",8,"Relapse"
-"136",136,"Female","Black","no_MOUD",8,"Relapse"
-"137",137,"Female","Other","no_MOUD",8,"Relapse"
-"138",138,"Female","White","no_MOUD",7,"Relapse"
-"139",139,"Female","Other","no_MOUD",7,"Relapse"
-"140",140,"Male","Asian","no_MOUD",6,"Relapse"
-"141",141,"Male","Asian","no_MOUD",6,"Relapse"
-"142",142,"Male","Asian","no_MOUD",7,"Relapse"
-"143",143,"Female","Other","no_MOUD",5,"Relapse"
-"144",144,"Female","White","no_MOUD",10,"Relapse"
-"145",145,"Female","Asian","no_MOUD",9,"Relapse"
-"146",146,"Male","Asian","no_MOUD",5,"Relapse"
-"147",147,"Male","White","no_MOUD",6,"Relapse"
-"148",148,"Female","Black","no_MOUD",6,"Relapse"
-"149",149,"Female","White","no_MOUD",8,"Relapse"
-"150",150,"Male","Black","no_MOUD",7,"Relapse"
-"151",151,"Female","Other","no_MOUD",7,"Relapse"
-"152",152,"Male","Black","no_MOUD",7,"Relapse"
-"153",153,"Female","White","no_MOUD",7,"Relapse"
-"154",154,"Female","Asian","no_MOUD",9,"Relapse"
-"155",155,"Female","White","no_MOUD",7,"Relapse"
-"156",156,"Male","Black","no_MOUD",9,"Relapse"
-"157",157,"Female","Black","no_MOUD",5,"Relapse"
-"158",158,"Female","White","no_MOUD",8,"Relapse"
-"159",159,"Female","Black","no_MOUD",7,"Relapse"
-"160",160,"Female","White","no_MOUD",7,"Relapse"
-"161",161,"Male","Other","no_MOUD",8,"Relapse"
-"162",162,"Female","White","no_MOUD",6,"Relapse"
-"163",163,"Female","Other","no_MOUD",7,"Relapse"
-"164",164,"Male","Black","no_MOUD",5,"Relapse"
-"165",165,"Female","Black","no_MOUD",5,"Relapse"
-"166",166,"Female","Other","no_MOUD",7,"Relapse"
-"167",167,"Female","Black","no_MOUD",8,"Relapse"
-"168",168,"Female","Other","no_MOUD",7,"Relapse"
-"169",169,"Female","Black","no_MOUD",8,"Relapse"
-"170",170,"Male","Other","no_MOUD",10,"Relapse"
-"171",171,"Female","Asian","no_MOUD",6,"Relapse"
-"172",172,"Male","White","no_MOUD",4,"Relapse"
-"173",173,"Female","Other","no_MOUD",9,"Relapse"
-"174",174,"Male","White","no_MOUD",6,"Relapse"
-"175",175,"Male","White","no_MOUD",6,"Relapse"
-"176",176,"Female","Other","no_MOUD",9,"Relapse"
-"177",177,"Male","White","no_MOUD",7,"Relapse"
-"178",178,"Female","Asian","no_MOUD",5,"Relapse"
-"179",179,"Female","Other","no_MOUD",7,"Relapse"
-"180",180,"Male","Black","no_MOUD",7,"Relapse"
-"181",181,"Male","White","no_MOUD",7,"Relapse"
-"182",182,"Female","White","no_MOUD",8,"Relapse"
-"183",183,"Male","Asian","no_MOUD",6,"Relapse"
-"184",184,"Male","Asian","no_MOUD",8,"Relapse"
-"185",185,"Female","White","no_MOUD",7,"Relapse"
-"186",186,"Male","White","no_MOUD",7,"Relapse"
-"187",187,"Male","Other","no_MOUD",9,"Relapse"
-"188",188,"Female","Black","no_MOUD",8,"Relapse"
-"189",189,"Female","Other","no_MOUD",7,"Relapse"
-"190",190,"Male","Other","no_MOUD",9,"Relapse"
-"191",191,"Male","Asian","no_MOUD",8,"Relapse"
-"192",192,"Female","Other","no_MOUD",8,"Relapse"
-"193",193,"Male","White","no_MOUD",7,"Relapse"
-"194",194,"Female","Other","no_MOUD",6,"Relapse"
-"195",195,"Male","White","no_MOUD",9,"Relapse"
-"196",196,"Female","Asian","no_MOUD",6,"Relapse"
-"197",197,"Male","White","no_MOUD",10,"Relapse"
-"198",198,"Male","Other","no_MOUD",9,"Relapse"
-"199",199,"Female","Black","no_MOUD",7,"Relapse"
-"200",200,"Female","Black","no_MOUD",5,"Relapse"
+age,sex,race,ethnicity,tx_group,withd_scale,did_relapse,id
+43.43344818701535,Female,Asian,Not Hispanic,MOUD,3,FALSE,1
+33.536596893018185,Female,NA,Not Hispanic,MOUD,1,FALSE,2
+41.60303890207394,Female,White,Not Hispanic,no_MOUD,6,FALSE,3
+38.08821254679741,Male,Black,Not Hispanic,MOUD,2,FALSE,4
+35.4481338661997,Male,NA,Not Hispanic,no_MOUD,10,TRUE,5
+31.190024843075374,Male,Patient Refused,Not Hispanic,MOUD,3,FALSE,6
+20.67775010188752,Male,Asian,Not Hispanic,no_MOUD,7,TRUE,7
+33.24759696853219,Female,Black,Not Hispanic,MOUD,4,FALSE,8
+51.019861842342635,Male,Patient Refused,Not Hispanic,MOUD,1,FALSE,9
+50.21889457343141,Female,NA,Not Hispanic,MOUD,2,FALSE,10
+42.07400656022567,Male,NA,Not Hispanic,no_MOUD,7,TRUE,11
+30.243061860323913,Male,Patient Refused,Not Hispanic,MOUD,0,FALSE,12
+54.33418683030568,Female,Patient Refused,Not Hispanic,no_MOUD,6,FALSE,13
+48.47548566475292,Female,Patient Refused,Hispanic,no_MOUD,8,TRUE,14
+40.6607068306847,Male,Other,Not Hispanic,MOUD,3,FALSE,15
+31.68528041664912,Male,White,Not Hispanic,MOUD,2,FALSE,16
+42.6720430223026,Female,Other,Not Hispanic,no_MOUD,7,FALSE,17
+29.27806250221763,Female,NA,Not Hispanic,no_MOUD,6,FALSE,18
+35.1678686908339,Male,NA,Not Hispanic,MOUD,2,FALSE,19
+39.34555247385671,Female,Patient Refused,Not Hispanic,MOUD,2,FALSE,20
+30.404890481893844,Male,Other,Not Hispanic,MOUD,-0,FALSE,21
+34.56777499931648,Male,Black,Hispanic,MOUD,4,FALSE,22
+36.949499436792735,Male,Other,Not Hispanic,MOUD,4,FALSE,23
+40.063685704251604,Female,White,Not Hispanic,no_MOUD,7,FALSE,24
+30.284151691879998,Male,Patient Refused,Not Hispanic,no_MOUD,9,TRUE,25
+32.87883954642918,Female,Asian,Hispanic,MOUD,3,FALSE,26
+35.47799949907681,Female,Black,Not Hispanic,MOUD,2,FALSE,27
+33.56758724495841,Female,Patient Refused,Not Hispanic,MOUD,1,FALSE,28
+31.51483624246476,Female,NA,Hispanic,no_MOUD,7,FALSE,29
+34.58414475055281,Female,NA,Not Hispanic,no_MOUD,9,TRUE,30
+29.227164476511877,Female,Other,Not Hispanic,no_MOUD,8,TRUE,31
+28.80684056315676,Female,White,Not Hispanic,no_MOUD,10,TRUE,32
+28.978488254258064,Female,White,Not Hispanic,no_MOUD,7,FALSE,33
+34.27744324827319,Female,Black,Hispanic,MOUD,4,FALSE,34
+999,Male,Black,Not Hispanic,MOUD,3,FALSE,35
+25.915292237005254,Female,NA,Not Hispanic,no_MOUD,8,TRUE,36
+38.6498912254385,Male,Asian,Hispanic,no_MOUD,9,TRUE,37
+29.6818445178075,Female,Patient Refused,Hispanic,MOUD,6,FALSE,38
+31.995177026641812,Male,Black,Hispanic,MOUD,4,FALSE,39
+20.974101126861843,Male,Other,Not Hispanic,no_MOUD,5,TRUE,40
+35.93309826866165,Female,NA,Not Hispanic,no_MOUD,9,TRUE,41
+26.875259371171644,Male,Asian,Not Hispanic,MOUD,3,FALSE,42
+31.889761087426052,Female,Black,Not Hispanic,MOUD,4,FALSE,43
+44.16210488304286,Female,Other,Not Hispanic,MOUD,3,FALSE,44
+29.823634949453847,Male,Patient Refused,Hispanic,no_MOUD,8,TRUE,45
+36.155805637685575,Male,Other,Not Hispanic,no_MOUD,5,TRUE,46
+34.29147910288893,Male,Asian,Not Hispanic,MOUD,3,FALSE,47
+52.59048279106976,Male,NA,Not Hispanic,MOUD,2,FALSE,48
+30.380255991523548,Male,Asian,Not Hispanic,MOUD,2,FALSE,49
+40.469964174805696,Male,Black,Not Hispanic,no_MOUD,4,FALSE,50
+30.504989091601736,Female,White,Not Hispanic,MOUD,4,FALSE,51
+28.69117729719806,Male,NA,Not Hispanic,MOUD,2,FALSE,52
+33.39375187528703,Male,Black,Hispanic,no_MOUD,7,TRUE,53
+24.463870941558064,Female,NA,Not Hispanic,MOUD,5,FALSE,54
+18.58221743653016,Female,Asian,Hispanic,no_MOUD,8,TRUE,55
+37.19013192829238,Male,Asian,Not Hispanic,no_MOUD,7,TRUE,56
+34.73571072579207,Male,NA,Not Hispanic,no_MOUD,8,TRUE,57
+31.427542268582222,Male,White,Not Hispanic,MOUD,1,FALSE,58
+30.425199536835493,Female,NA,Not Hispanic,no_MOUD,6,FALSE,59
+40.2865623823184,Female,Black,Hispanic,no_MOUD,6,FALSE,60
+34.19220091736953,Male,Asian,Not Hispanic,MOUD,1,FALSE,61
+41.76010403253949,Female,Black,Not Hispanic,MOUD,3,FALSE,62
+34.15462932796981,Male,Other,Not Hispanic,no_MOUD,8,TRUE,63
+51.30059214592348,Female,Patient Refused,Not Hispanic,no_MOUD,6,FALSE,64
+29.215472240481013,Male,Black,Not Hispanic,MOUD,2,FALSE,65
+43.11954538194926,Male,Other,Not Hispanic,no_MOUD,7,TRUE,66
+33.934792285368445,Male,Asian,Hispanic,MOUD,4,FALSE,67
+18.88631601663424,Female,Black,Not Hispanic,no_MOUD,8,TRUE,68
+33.56075015161968,Male,NA,Not Hispanic,no_MOUD,7,TRUE,69
+24.087700383340998,Male,Patient Refused,Not Hispanic,no_MOUD,8,TRUE,70
+33.3576059402544,Male,Patient Refused,Not Hispanic,no_MOUD,8,TRUE,71
+53.34463179064875,Male,NA,Not Hispanic,MOUD,2,FALSE,72
+37.59443475329104,Male,Other,Not Hispanic,MOUD,6,TRUE,73
+27.0599427968637,Female,White,Not Hispanic,MOUD,4,FALSE,74
+41.5412755709927,Female,Asian,Not Hispanic,no_MOUD,5,FALSE,75
+35.71365778458636,Female,Black,Not Hispanic,MOUD,4,FALSE,76
+44.89340037133256,Male,White,Not Hispanic,no_MOUD,6,TRUE,77
+49.9348147576549,Female,NA,Not Hispanic,MOUD,4,FALSE,78
+27.436729351008857,Male,Patient Refused,Not Hispanic,no_MOUD,7,TRUE,79
+28.74770810356199,Male,Black,Not Hispanic,MOUD,1,FALSE,80
+23.83780520160426,Female,Asian,Hispanic,MOUD,6,FALSE,81
+22.736783976875216,Male,Other,Not Hispanic,MOUD,2,FALSE,82
+29.091778362083414,Male,Other,Not Hispanic,MOUD,2,FALSE,83
+26.559863659178546,Male,Black,Not Hispanic,no_MOUD,8,TRUE,84
+36.34452307107726,Male,Patient Refused,Not Hispanic,MOUD,2,FALSE,85
+35.05832072253519,Female,NA,Not Hispanic,no_MOUD,9,TRUE,86
+47.031204872036284,Male,NA,Not Hispanic,no_MOUD,6,TRUE,87
+43.197385878546804,Female,Patient Refused,Not Hispanic,no_MOUD,5,FALSE,88
+28.364179107003856,Female,NA,Hispanic,no_MOUD,6,FALSE,89
+30.816700989492624,Male,Patient Refused,Not Hispanic,no_MOUD,6,TRUE,90
+38.29143936492584,Male,NA,Hispanic,no_MOUD,5,TRUE,91
+35.72397317711377,Male,NA,Not Hispanic,MOUD,1,FALSE,92
+46.968485358770806,Female,Black,Not Hispanic,MOUD,1,FALSE,93
+40.47447543533172,Female,Black,Not Hispanic,MOUD,3,FALSE,94
+39.943886537332226,Female,Black,Hispanic,MOUD,2,FALSE,95
+24.722274221457628,Female,White,Not Hispanic,MOUD,1,FALSE,96
+34.18493395427822,Male,Other,Hispanic,no_MOUD,6,TRUE,97
+19.05801209049134,Female,NA,Hispanic,no_MOUD,7,FALSE,98
+28.691024233167987,Female,NA,Hispanic,MOUD,4,FALSE,99
+30.871489352441756,Male,Asian,Not Hispanic,MOUD,3,FALSE,100
+42.07720399181536,Female,White,Not Hispanic,MOUD,2,FALSE,101
+35.953961891420676,Male,White,Not Hispanic,MOUD,2,FALSE,102
+21.18615680708536,Male,Asian,Hispanic,no_MOUD,8,TRUE,103
+31.50272373455681,Female,White,Not Hispanic,no_MOUD,7,FALSE,104
+21.6601992193147,Female,Asian,Not Hispanic,MOUD,1,FALSE,105
+48.126769327819886,Female,Other,Not Hispanic,MOUD,3,FALSE,106
+40.209546252701365,Male,Patient Refused,Hispanic,no_MOUD,6,TRUE,107
+37.768828956428855,Female,NA,Not Hispanic,no_MOUD,9,TRUE,108
+44.8598070278827,Male,Other,Not Hispanic,MOUD,1,FALSE,109
+48.36843863090351,Male,Asian,Not Hispanic,no_MOUD,5,TRUE,110
+30.411517833853736,Male,White,Hispanic,no_MOUD,9,TRUE,111
+47.153741691105424,Female,Black,Not Hispanic,no_MOUD,8,TRUE,112
+25.901571034674042,Female,Other,Not Hispanic,MOUD,1,FALSE,113
+36.521842525539654,Female,Asian,Not Hispanic,no_MOUD,8,TRUE,114
+25.109815048933655,Female,Asian,Hispanic,MOUD,2,FALSE,115
+36.76815574848802,Male,Asian,Not Hispanic,MOUD,5,TRUE,116
+35.377235462092216,Male,Patient Refused,Not Hispanic,MOUD,1,FALSE,117
+37.649433383671855,Female,Black,Hispanic,no_MOUD,10,TRUE,118
+35.945156088373444,Male,Other,Not Hispanic,MOUD,3,FALSE,119
+29.36322829055944,Female,Black,Hispanic,MOUD,3,FALSE,120
+33.32165463017193,Female,Other,Hispanic,no_MOUD,7,FALSE,121
+40.62819122205516,Female,White,Hispanic,no_MOUD,10,TRUE,122
+47.78807016916661,Male,Patient Refused,Not Hispanic,MOUD,3,FALSE,123
+24.12127436942885,Female,Asian,Not Hispanic,MOUD,4,FALSE,124
+29.26225470740792,Male,NA,Not Hispanic,MOUD,3,FALSE,125
+44.99931656775372,Female,Other,Not Hispanic,MOUD,1,FALSE,126
+20.9477808355389,Female,Asian,Not Hispanic,MOUD,2,FALSE,127
+44.74486888260649,Female,Patient Refused,Not Hispanic,no_MOUD,7,FALSE,128
+38.80906622642103,Female,Other,Not Hispanic,no_MOUD,7,FALSE,129
+48.20725973869352,Male,Asian,Not Hispanic,MOUD,2,FALSE,130
+44.347070984552744,Male,Patient Refused,Hispanic,MOUD,3,FALSE,131
+34.513424362719405,Female,White,Not Hispanic,no_MOUD,8,TRUE,132
+24.192778511754305,Male,White,Not Hispanic,MOUD,1,FALSE,133
+999,Female,Patient Refused,Not Hispanic,MOUD,3,FALSE,134
+30.83106145957984,Male,Asian,Not Hispanic,MOUD,5,TRUE,135
+31.311693288925166,Male,Black,Not Hispanic,no_MOUD,10,TRUE,136
+32.09074162323798,Male,Asian,Not Hispanic,MOUD,6,TRUE,137
+26.57989376529011,Male,Patient Refused,Hispanic,no_MOUD,7,TRUE,138
+27.854339439560377,Female,Asian,Not Hispanic,no_MOUD,7,FALSE,139
+36.072309162947704,Male,Other,Hispanic,MOUD,3,FALSE,140
+25.49252771881617,Female,White,Not Hispanic,no_MOUD,7,FALSE,141
+27.20792333756727,Male,White,Hispanic,no_MOUD,8,TRUE,142
+40.89196771818754,Male,White,Not Hispanic,MOUD,5,TRUE,143
+30.187946335945746,Male,Asian,Not Hispanic,no_MOUD,7,TRUE,144
+41.9262352346759,Female,NA,Not Hispanic,no_MOUD,7,FALSE,145
+37.671223539993804,Female,Other,Hispanic,no_MOUD,9,TRUE,146
+46.02856109567392,Male,White,Not Hispanic,no_MOUD,7,TRUE,147
+47.38064847187015,Male,Other,Not Hispanic,MOUD,3,FALSE,148
+40.046032925204536,Male,White,Not Hispanic,MOUD,2,FALSE,149
+36.71631061303373,Female,Other,Not Hispanic,MOUD,3,FALSE,150
+55.5716651669331,Male,Other,Not Hispanic,no_MOUD,7,TRUE,151
+45.68414092047514,Male,Asian,Not Hispanic,no_MOUD,5,TRUE,152
+43.87878511143775,Female,Black,Not Hispanic,MOUD,2,FALSE,153
+43.14046909561674,Female,NA,Not Hispanic,no_MOUD,8,TRUE,154
+34.88554069466469,Female,NA,Not Hispanic,no_MOUD,7,FALSE,155
+21.791608834494504,Male,Black,Not Hispanic,no_MOUD,4,FALSE,156
+32.18362834733907,Female,Patient Refused,Not Hispanic,no_MOUD,6,FALSE,157
+39.99349977616522,Female,White,Not Hispanic,no_MOUD,6,FALSE,158
+38.35185923939571,Female,Other,Not Hispanic,MOUD,4,FALSE,159
+45.40158942133456,Female,NA,Not Hispanic,MOUD,8,TRUE,160
+34.09088083595088,Male,Black,Not Hispanic,MOUD,4,FALSE,161
+27.02575406233982,Female,Black,Not Hispanic,no_MOUD,7,FALSE,162
+31.081036374892207,Male,NA,Not Hispanic,MOUD,1,FALSE,163
+48.40557545922552,Male,Patient Refused,Not Hispanic,MOUD,3,FALSE,164
+39.08106037502931,Male,White,Not Hispanic,no_MOUD,6,TRUE,165
+50.64235172393971,Female,Black,Not Hispanic,MOUD,5,FALSE,166
+30.408212165616106,Male,White,Not Hispanic,MOUD,3,FALSE,167
+45.4094079376047,Female,Black,Hispanic,no_MOUD,9,TRUE,168
+35.27640853707081,Female,White,Not Hispanic,no_MOUD,7,FALSE,169
+41.765852321514366,Female,Black,Not Hispanic,no_MOUD,9,TRUE,170
+31.58176570235657,Male,NA,Not Hispanic,no_MOUD,7,TRUE,171
+41.05419811036769,Male,White,Not Hispanic,no_MOUD,8,TRUE,172
+24.930810975518625,Male,Asian,Not Hispanic,no_MOUD,4,FALSE,173
+35.59640941738988,Female,Patient Refused,Not Hispanic,MOUD,3,FALSE,174
+36.69584346697833,Male,Other,Not Hispanic,no_MOUD,5,TRUE,175
+27.49169037114485,Male,White,Not Hispanic,no_MOUD,9,TRUE,176
+38.425334119764045,Female,White,Not Hispanic,MOUD,4,FALSE,177
+35.79462075270262,Female,Patient Refused,Not Hispanic,no_MOUD,6,FALSE,178
+30.982410253257115,Male,Black,Not Hispanic,MOUD,3,FALSE,179
+15.272814449919782,Male,Other,Hispanic,no_MOUD,7,TRUE,180
+41.85538408719455,Male,Other,Not Hispanic,no_MOUD,8,TRUE,181
+32.163660775408175,Female,White,Not Hispanic,no_MOUD,5,FALSE,182
+17.738829319877784,Female,Black,Not Hispanic,no_MOUD,8,TRUE,183
+38.01910378419144,Female,Asian,Not Hispanic,no_MOUD,8,TRUE,184
+31.28810205627188,Female,Other,Not Hispanic,no_MOUD,9,TRUE,185
+38.88367983123902,Male,Black,Not Hispanic,MOUD,1,FALSE,186
+35.19739986260912,Male,White,Not Hispanic,MOUD,2,FALSE,187
+24.28980570212022,Male,Other,Not Hispanic,no_MOUD,5,TRUE,188
+42.2911303343677,Male,NA,Not Hispanic,no_MOUD,6,TRUE,189
+36.398421601290046,Male,White,Not Hispanic,MOUD,3,FALSE,190
+41.79714436506684,Female,Patient Refused,Not Hispanic,MOUD,2,FALSE,191
+32.87478699777422,Male,Asian,Not Hispanic,MOUD,2,FALSE,192
+36.89944217992821,Male,Black,Not Hispanic,no_MOUD,5,TRUE,193
+36.397811175854734,Female,Asian,Not Hispanic,no_MOUD,6,FALSE,194
+42.70022374787417,Female,Black,Not Hispanic,MOUD,3,FALSE,195
+32.24866212697233,Female,Asian,Hispanic,MOUD,3,FALSE,196
+24.9145369694498,Female,White,Not Hispanic,no_MOUD,7,FALSE,197
+35.533606967441465,Male,Other,Not Hispanic,MOUD,6,TRUE,198
+43.646395969212136,Male,NA,Not Hispanic,MOUD,4,FALSE,199
+38.02534217766806,Male,White,Not Hispanic,no_MOUD,8,TRUE,200
